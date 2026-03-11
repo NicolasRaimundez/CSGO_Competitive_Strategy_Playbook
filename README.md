@@ -11,7 +11,7 @@ This playbook identifies three critical levers of competitive success: **Spatial
 *Project Title: [Strategic Performance Analytics: CS:GO Tactical Intelligence]*
 
 <p align="center">
-<img src="images/Heatmaps_CSGO.png" width="800" alt="Heatmaps CSGO">
+<img src="Images/Heatmaps_CSGO.png" width="800" alt="Heatmaps_CSGO">
 </p>
 
 In this phase, I utilized event-level telemetry to map the "Winning Geometry" of the map **de_mirage**. By transforming raw engine coordinates into normalized 2D spatial data, I answered several key tactical questions:
