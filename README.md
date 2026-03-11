@@ -28,7 +28,7 @@ Utilizing event-level telemetry, I mapped the "Winning Geometry" of the map **de
 **Project Title: [Strategic Resource Allocation: Gunplay Economics]**
 
 <p align="center">
-<img src="Images/Economics_CSGO.png" width="800" alt="Economics_CSGO">
+<img src="Images/Gunplay_Economics.png" width="800" alt="Gunplay_Economics">
 </p>
 
 This section treats the game as a financial model to evaluate the "Cost of Victory." By analyzing over 400k weapon events, I evaluated the correlation between capital expenditure and win probability.
