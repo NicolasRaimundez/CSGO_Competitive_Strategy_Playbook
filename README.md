@@ -41,5 +41,5 @@ CS:GO is unique because players must buy their tools. This section treats the ga
 ## Tech Stack & Methodology
 * **Language:** Python (Pandas, NumPy)
 * **Visualization:** Seaborn, Matplotlib (Spatial Heatmaps & KDE Plots)
-* **Data Source:** `skihikingkevin/csgo-matchmaking-damage` (400k+ event logs)
+* **Data Source:** [CS:GO Matchmaking Damage Dataset](https://www.kaggle.com/datasets/skihikingkevin/csgo-matchmaking-damage) (400k+ event logs)
 * **Logic:** Minto Pyramid Principle (Situation-Complication-Question-Answer)
