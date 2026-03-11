@@ -8,7 +8,7 @@ This playbook identifies two critical levers of competitive success: **Spatial D
 ---
 
 ## 1. Geospatial Analysis: Tactical Intelligence
-**Project Title: [Strategic Performance Analytics: CS:GO Tactical Intelligence]**
+**Analysis Title: [CS:GO Spatial Strategy & Defensive Analysis]**
 
 <p align="center">
 <img src="Images/Heatmaps_CSGO.png" width="800" alt="Heatmaps_CSGO">
@@ -25,7 +25,7 @@ Utilizing event-level telemetry, I mapped the "Winning Geometry" of the map **de
 ---
 
 ## 2. Gunplay Economics: Resource ROI
-**Project Title: [Strategic Resource Allocation: Gunplay Economics]**
+**Analysis Title: [Strategic Resource Allocation: Gunplay Economics]**
 
 <p align="center">
 <img src="Images/Gunplay_Economics.png" width="800" alt="Gunplay_Economics">
