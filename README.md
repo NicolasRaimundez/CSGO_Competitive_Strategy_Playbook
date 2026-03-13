@@ -1,3 +1,6 @@
+<p align="center">
+<img src="Images/CSGO_image.png" width="800" alt="CSGO_Image">
+</p>
 
 # CS:GO Competitive Strategy Playbook
 
