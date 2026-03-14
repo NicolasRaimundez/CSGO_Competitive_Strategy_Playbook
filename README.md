@@ -26,6 +26,8 @@ Utilizing event-level telemetry, I mapped the "Winning Geometry" of the map **de
 
 **Key Finding:** Success is driven by **"Active Anchoring"**—controlling entry bottlenecks rather than playing passive, reactive defense from the back of a site.
 
+* [Here you can check the entire analysis!](cs-go-spatial-strategy-defensive-analysis.ipynb)
+
 ---
 
 ## 2. Gunplay Economics: Resource ROI
