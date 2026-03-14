@@ -26,7 +26,7 @@ Utilizing event-level telemetry, I mapped the "Winning Geometry" of the map **de
 
 **Key Finding:** Success is driven by **"Active Anchoring"**—controlling entry bottlenecks rather than playing passive, reactive defense from the back of a site.
 
-* [Here you can check the entire analysis!](cs-go-spatial-strategy-defensive-analysis.ipynb)
+📄 [Here you can check the entire analysis!](cs-go-spatial-strategy-defensive-analysis.ipynb)
 
 ---
 
@@ -44,6 +44,8 @@ This section treats the game as a financial model to evaluate the "Cost of Victo
 * **Economic Bipolarity:** Discovered a distinct **Bimodal Distribution** in spending, where successful teams avoid "Mid-Tier" investments, preferring to either "Full Save" or "Full Buy" to maximize efficiency.
 
 **Key Finding:** Winning is not about having the most money; it is about **"Spend Optimization"**—minimizing time in the inefficient mid-tier budget zones and maximizing high-ROI full-buy rounds.
+
+📄 [Here you can check the entire analysis!](gunplay-economics-with-cs-go.ipynb)
 
 ---
 
