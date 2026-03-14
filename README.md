@@ -1,8 +1,18 @@
+# CS:GO Competitive Strategy Playbook
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+
+---
+
 <p align="center">
 <img src="Images/CSGO_Image.png" width="800" alt="CSGO_Image">
 </p>
 
-# CS:GO Competitive Strategy Playbook
+---
 
 ## Executive Summary
 Counter-Strike: Global Offensive (CS:GO) is a tactical, round-based objective shooter that serves as a high-stakes **resource management simulation**. As one of my favorite games, I chose to analyze its data because it represents a perfect intersection of high-velocity telemetry and complex economic decision-making.
